@@ -19,7 +19,7 @@ const Footer = () => {
               NEXUS AI
             </h3> */}
             <div>
-                <a href="https://sunrisemediapune.com" rel="noopener noreferrer" >
+                <a href="https://sunrisemediapune.in" rel="noopener noreferrer" >
                   <img 
                     src={logo} 
                     alt="Logo" 
@@ -93,7 +93,7 @@ const Footer = () => {
             <h4 className="text-white font-bold mb-4">Connect</h4>
             <div className="flex gap-4">
               <a
-                href="https://linkedin.com"
+                href="https://www.linkedin.com/company/sunrise-media-pune/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-10 h-10 rounded-lg bg-gray-800 hover:bg-gradient-to-br hover:from-cyan-500 hover:to-violet-500 flex items-center justify-center text-gray-400 hover:text-white transition-all duration-300"
@@ -101,7 +101,7 @@ const Footer = () => {
                 <Linkedin className="w-5 h-5" />
               </a>
               <a
-                href="https://Facebook.com"
+                href="https://www.facebook.com/share/18SYNsn8xy/?mibextid=wwXIfr"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-10 h-10 rounded-lg bg-gray-800 hover:bg-gradient-to-br hover:from-cyan-500 hover:to-violet-500 flex items-center justify-center text-gray-400 hover:text-white transition-all duration-300"
@@ -109,7 +109,7 @@ const Footer = () => {
                 <Facebook className="w-5 h-5" />
               </a>
               <a
-                href="https://instagram.com"
+                href="https://www.instagram.com/sunrisemedia.pune?igsh=MWdqd3J1eHQ0aWp3bQ=="
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-10 h-10 rounded-lg bg-gray-800 hover:bg-gradient-to-br hover:from-cyan-500 hover:to-violet-500 flex items-center justify-center text-gray-400 hover:text-white transition-all duration-300"
@@ -129,7 +129,7 @@ const Footer = () => {
         <div className="pt-8 border-t border-cyan-500/20">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-gray-400 text-sm">
-              © 2026 <a className='font-bold bg-gradient-to-r from-cyan-400 to-violet-400 bg-clip-text text-transparent mb-4' href="https://sunrisemediapune.com" style={{cursor: "pointer"}}>SUNRiSE MEDIA</a>. All rights reserved.
+              © 2026 <a className='font-bold bg-gradient-to-r from-cyan-400 to-violet-400 bg-clip-text text-transparent mb-4' href="https://sunrisemediapune.in" style={{cursor: "pointer"}}>SUNRiSE MEDIA</a>. All rights reserved.
             </p>
             <div className="flex gap-6 text-sm">
               <a href="#" className="text-gray-400 hover:text-cyan-400 transition-colors">

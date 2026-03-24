@@ -77,7 +77,7 @@ const Hero = () => {
             }}
             size="lg"
             variant="outline"
-            className="text-lg px-8 py-6 rounded-lg border-2 border-cyan-500/50 text-cyan-400 hover:bg-cyan-500/10 hover:border-cyan-400 transition-all duration-300"
+            className="text-lg px-8 py-6 rounded-lg border-2 border-cyan-500/50 text-cyan-400 hover:bg-cyan-500/10 hover:border-cyan-400 hover:text-violet-400 transition-all duration-300"
           >
             View Results
           </Button>

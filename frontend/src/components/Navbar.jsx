@@ -33,7 +33,7 @@ const Navbar = () => {
       <div className="max-w-7xl mx-auto px-6 lg:px-8">
         <div className="flex items-center justify-between h-20">
           <div className="flex-shrink-0">
-            <a href="https://sunrisemediapune.com" rel="noopener noreferrer" >
+            <a href="https://sunrisemediapune.in" rel="noopener noreferrer" >
               <div>
                 <img 
                   src={logo} 
